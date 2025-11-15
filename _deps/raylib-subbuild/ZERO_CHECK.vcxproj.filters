@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\btmig\OneDrive\Documents\UCR\CutieHack2025_Workshop\_deps\raylib-subbuild\CMakeFiles\10866c4ab87f8516a357f6d3faf29877\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CBB8974A-C48B-3850-96AA-EF99D13684CC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

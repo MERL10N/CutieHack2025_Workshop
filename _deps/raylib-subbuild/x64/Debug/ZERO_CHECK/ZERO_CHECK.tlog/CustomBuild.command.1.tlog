@@ -1,0 +1,10 @@
+^C:\USERS\BTMIG\ONEDRIVE\DOCUMENTS\UCR\CUTIEHACK2025_WORKSHOP\_DEPS\RAYLIB-SUBBUILD\CMAKEFILES\10866C4AB87F8516A357F6D3FAF29877\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/btmig/OneDrive/Documents/UCR/CutieHack2025_Workshop/_deps/raylib-subbuild -BC:/Users/btmig/OneDrive/Documents/UCR/CutieHack2025_Workshop/_deps/raylib-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/btmig/OneDrive/Documents/UCR/CutieHack2025_Workshop/_deps/raylib-subbuild/raylib-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

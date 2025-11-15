@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\btmig\OneDrive\Documents\UCR\CutieHack2025_Workshop\CMakeFiles\3b6c4db38c8aa2fb02f082a20099eb71\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7B354EDE-C143-3EAE-A425-75BDF21C6987}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

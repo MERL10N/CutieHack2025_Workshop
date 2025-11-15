@@ -1,0 +1,24 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckCCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Internal/CheckCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Internal/CheckFlagCommonConfig.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC.cmake
+C:/Users/btmig/OneDrive/Documents/UCR/CutieHack2025_Workshop/CMakeFiles/3.28.0/CMakeCCompiler.cmake
+C:/Users/btmig/OneDrive/Documents/UCR/CutieHack2025_Workshop/CMakeFiles/cmake.verify_globs
+C:/Users/btmig/OneDrive/Documents/UCR/CutieHack2025_Workshop/_deps/raylib-src/CMakeLists.txt
+C:/Users/btmig/OneDrive/Documents/UCR/CutieHack2025_Workshop/_deps/raylib-src/CMakeOptions.txt
+C:/Users/btmig/OneDrive/Documents/UCR/CutieHack2025_Workshop/_deps/raylib-src/cmake/AddIfFlagCompiles.cmake
+C:/Users/btmig/OneDrive/Documents/UCR/CutieHack2025_Workshop/_deps/raylib-src/cmake/CompilerFlags.cmake
+C:/Users/btmig/OneDrive/Documents/UCR/CutieHack2025_Workshop/_deps/raylib-src/cmake/EnumOption.cmake
+C:/Users/btmig/OneDrive/Documents/UCR/CutieHack2025_Workshop/_deps/raylib-src/cmake/ParseConfigHeader.cmake

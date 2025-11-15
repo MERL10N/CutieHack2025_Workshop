@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/btmig/OneDrive/Documents/UCR/CutieHack2025_Workshop/_deps/raylib-subbuild/CMakeFiles/raylib-populate"
+		},
+		{
+			"file" : "C:/Users/btmig/OneDrive/Documents/UCR/CutieHack2025_Workshop/_deps/raylib-subbuild/CMakeFiles/10866c4ab87f8516a357f6d3faf29877/raylib-populate.rule"
+		},
+		{
+			"file" : "C:/Users/btmig/OneDrive/Documents/UCR/CutieHack2025_Workshop/_deps/raylib-subbuild/CMakeFiles/98566e31afdee81d909ee943576207a6/raylib-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/btmig/OneDrive/Documents/UCR/CutieHack2025_Workshop/_deps/raylib-subbuild/CMakeFiles/fda29858035946ab539f498a6d29cd0c/raylib-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/btmig/OneDrive/Documents/UCR/CutieHack2025_Workshop/_deps/raylib-subbuild/CMakeFiles/fda29858035946ab539f498a6d29cd0c/raylib-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/btmig/OneDrive/Documents/UCR/CutieHack2025_Workshop/_deps/raylib-subbuild/CMakeFiles/fda29858035946ab539f498a6d29cd0c/raylib-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/btmig/OneDrive/Documents/UCR/CutieHack2025_Workshop/_deps/raylib-subbuild/CMakeFiles/fda29858035946ab539f498a6d29cd0c/raylib-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/btmig/OneDrive/Documents/UCR/CutieHack2025_Workshop/_deps/raylib-subbuild/CMakeFiles/fda29858035946ab539f498a6d29cd0c/raylib-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/btmig/OneDrive/Documents/UCR/CutieHack2025_Workshop/_deps/raylib-subbuild/CMakeFiles/fda29858035946ab539f498a6d29cd0c/raylib-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/btmig/OneDrive/Documents/UCR/CutieHack2025_Workshop/_deps/raylib-subbuild/CMakeFiles/fda29858035946ab539f498a6d29cd0c/raylib-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/btmig/OneDrive/Documents/UCR/CutieHack2025_Workshop/_deps/raylib-subbuild/CMakeFiles/fda29858035946ab539f498a6d29cd0c/raylib-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"raylib-populate"
+		],
+		"name" : "raylib-populate"
+	}
+}
