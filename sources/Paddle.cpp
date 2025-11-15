@@ -16,42 +16,25 @@ Paddle::Paddle(float x, float y, float width, float height, int speed)
 
 void Paddle::Draw() const
 {
-    DrawRectangleRounded(Rectangle{x, y, width, height}, 0.8f, 0, WHITE);
 }
 
 void Paddle::Update()
 {
-    if (IsKeyDown(KEY_UP))
-    {
-        MoveUp();
-    }
-    if (IsKeyDown(KEY_DOWN))
-    {
-        MoveDown();
-    }
+    // Get Player Input
 }
 
 void Paddle::MoveUp()
 {
-    y -= speed;
-    LimitMovement();
+    // Move player up
 }
 
 void Paddle::MoveDown()
 {
-    y += speed;
-    LimitMovement();
+    // Move Player Down
 }
 
 void Paddle::LimitMovement()
 {
-    if (y <= 0)
-    {
-        y = 0;
-    }
-    if (y + height >= GetScreenHeight()) {
-        y = GetScreenHeight() - height;
-    }
 }
 
 Rectangle Paddle::GetRect() const

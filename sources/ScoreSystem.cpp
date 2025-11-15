@@ -13,16 +13,12 @@ ScoreSystem::ScoreSystem()
 
 void ScoreSystem::AddPlayerScore()
 {
-    ++playerScore;
 }
 
 void ScoreSystem::AddOpponentScore()
 {
-    ++opponentScore;
 }
 
 void ScoreSystem::Draw(int screenWidth) const
 {
-    DrawText(TextFormat("%i", playerScore), screenWidth / 4 - 20, 20, 80, WHITE);
-    DrawText(TextFormat("%i", opponentScore), 3 * screenWidth / 4 - 20, 20, 80, WHITE);
 }
