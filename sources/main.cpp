@@ -9,7 +9,7 @@ int main(void)
 {
     constexpr int SCREEN_WIDTH = 1280;
     constexpr int SCREEN_HEIGHT = 720;
-    const char* WINDOW_TITLE = "Cutiehack 2025 :P";
+    const char* WINDOW_TITLE = "Intro to C++ GameDev Workshop :P";
     Color Green = Color{38, 185, 154, 255};
     Color Dark_Green = Color{20, 160, 133, 255};
     Color Light_Green = Color{129, 204, 184, 255};
