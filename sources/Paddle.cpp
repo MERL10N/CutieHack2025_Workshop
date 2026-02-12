@@ -5,7 +5,7 @@
 #include "Paddle.h"
 #include <raylib.h>
 
-Paddle::Paddle(const float x, const float y, const float width, const float height, const int speed)
+Paddle::Paddle(float x, float y, float width, float height, int speed)
 : x(x),
   y(y),
   width(width),
