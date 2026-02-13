@@ -20,11 +20,12 @@ void Paddle::Draw() const
 
 void Paddle::Update()
 {
-    if (IsKeyDown(KEY_UP))
+    // Keyboard Input
+    if (IsKeyDown(KEY_UP) || IsKeyDown(KEY_W))
     {
         MoveUp();
     }
-    if (IsKeyDown(KEY_DOWN))
+    if (IsKeyDown(KEY_DOWN) || IsKeyDown(KEY_S))
     {
         MoveDown();
     }
@@ -48,7 +49,8 @@ void Paddle::LimitMovement()
     {
         y = 0;
     }
-    if (y + height >= GetScreenHeight()) {
+    if (y + height >= GetScreenHeight())
+    {
         y = GetScreenHeight() - height;
     }
 }
@@ -59,5 +61,5 @@ Rectangle Paddle::GetRect() const
 
 float Paddle::GetCenterY() const
 {
-    return y + height / 2.0f;
+    return y + (height * 0.5f);
 }
