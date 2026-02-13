@@ -11,7 +11,7 @@
 class Paddle
 {
 public:
-    Paddle(float x, float y, float width, float height, int speed);
+    Paddle(const float x, const float y, const float width, const float height, const int speed);
 
     void Draw() const;
     virtual void Update();

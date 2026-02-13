@@ -19,6 +19,6 @@ void ScoreSystem::AddOpponentScore()
 {
 }
 
-void ScoreSystem::Draw(int screenWidth) const
+void ScoreSystem::Draw(const int screenWidth) const
 {
 }

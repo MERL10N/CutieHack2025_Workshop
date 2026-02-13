@@ -4,6 +4,6 @@
 
 #include "Opponent.h"
 
-void OpponentPaddle::Update(int ballY)
+void OpponentPaddle::Update(const int ballY)
 {
 }
