@@ -5,7 +5,7 @@
 #include "Ball.h"
 #include "ScoreSystem.h"
 
-Ball::Ball(float x, float y, int radius, int speedX, int speedY)
+Ball::Ball(const float x, const float y, const int radius, const int speedX, const int speedY)
 : x(x),
   y(y),
   speedX(speedX),
