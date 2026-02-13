@@ -13,7 +13,7 @@ class ScoreSystem;
 class Ball
 {
 public:
-    Ball(float x, float y, int radius, int speedX, int speedY);
+    Ball(const float x, const float y, const int radius, const int speedX, const int speedY);
 
     void Bounce();
 

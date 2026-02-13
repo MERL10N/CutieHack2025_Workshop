@@ -6,4 +6,12 @@
 
 void OpponentPaddle::Update(const int ballY)
 {
+    if (GetCenterY() > ballY)
+    {
+        MoveUp();
+    }
+    else if (GetCenterY() < ballY)
+    {
+        MoveDown();
+    }
 }
